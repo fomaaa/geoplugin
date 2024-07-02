@@ -1,5 +1,5 @@
 {
-    "name": "jairovsky/geoplugin",
+    "name": "fomaaa/geoplugin",
     "description": "GeoPlugin.com library for PHP 5.3+",
     "keywords": ["geolocation","geoprogramming"],
     "license": "MIT",
@@ -7,7 +7,7 @@
     "authors": [
         {
             "name": "Jairo Santos",
-            "email": "jairosantos08@gmail.com"
+            "email": "s08@gmail.com"
         }
     ],
     "require": {
